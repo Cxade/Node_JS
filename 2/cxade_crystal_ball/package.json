@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Cxade",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cxade/Node_JS.git#main"
+  },
+  "bugs": {
+    "url": "https://github.com/Cxade/Node_JS/issues"
+  },
+  "homepage": "https://github.com/Cxade/Node_JS/tree/main#readme"
 }
